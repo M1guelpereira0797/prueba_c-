@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejemplos_de_funciones", "Ejemplos_de_funciones.csproj", "{7D295AED-19CD-49BD-AD09-C5F46DADE540}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "validar acceso recargado utilizando bucles", "..\validar acceso recargado utilizando bucles\validar acceso recargado utilizando bucles.csproj", "{49BC4A3B-F5D6-4FCC-8ACE-C0F8AB59C928}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D295AED-19CD-49BD-AD09-C5F46DADE540}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D295AED-19CD-49BD-AD09-C5F46DADE540}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D295AED-19CD-49BD-AD09-C5F46DADE540}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D295AED-19CD-49BD-AD09-C5F46DADE540}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49BC4A3B-F5D6-4FCC-8ACE-C0F8AB59C928}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49BC4A3B-F5D6-4FCC-8ACE-C0F8AB59C928}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49BC4A3B-F5D6-4FCC-8ACE-C0F8AB59C928}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49BC4A3B-F5D6-4FCC-8ACE-C0F8AB59C928}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7676FAE-0E98-4823-8158-66DC9F4B555D}
+	EndGlobalSection
+EndGlobal

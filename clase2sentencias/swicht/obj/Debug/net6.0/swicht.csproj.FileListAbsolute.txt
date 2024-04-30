@@ -1,0 +1,30 @@
+D:\coder nuevo\curso de c#\prueba de git\prueba\clase2sentencias\swicht\bin\Debug\net6.0\swicht.exe
+D:\coder nuevo\curso de c#\prueba de git\prueba\clase2sentencias\swicht\bin\Debug\net6.0\swicht.deps.json
+D:\coder nuevo\curso de c#\prueba de git\prueba\clase2sentencias\swicht\bin\Debug\net6.0\swicht.runtimeconfig.json
+D:\coder nuevo\curso de c#\prueba de git\prueba\clase2sentencias\swicht\bin\Debug\net6.0\swicht.dll
+D:\coder nuevo\curso de c#\prueba de git\prueba\clase2sentencias\swicht\bin\Debug\net6.0\swicht.pdb
+D:\coder nuevo\curso de c#\prueba de git\prueba\clase2sentencias\swicht\obj\Debug\net6.0\swicht.csproj.AssemblyReference.cache
+D:\coder nuevo\curso de c#\prueba de git\prueba\clase2sentencias\swicht\obj\Debug\net6.0\swicht.GeneratedMSBuildEditorConfig.editorconfig
+D:\coder nuevo\curso de c#\prueba de git\prueba\clase2sentencias\swicht\obj\Debug\net6.0\swicht.AssemblyInfoInputs.cache
+D:\coder nuevo\curso de c#\prueba de git\prueba\clase2sentencias\swicht\obj\Debug\net6.0\swicht.AssemblyInfo.cs
+D:\coder nuevo\curso de c#\prueba de git\prueba\clase2sentencias\swicht\obj\Debug\net6.0\swicht.csproj.CoreCompileInputs.cache
+D:\coder nuevo\curso de c#\prueba de git\prueba\clase2sentencias\swicht\obj\Debug\net6.0\swicht.dll
+D:\coder nuevo\curso de c#\prueba de git\prueba\clase2sentencias\swicht\obj\Debug\net6.0\refint\swicht.dll
+D:\coder nuevo\curso de c#\prueba de git\prueba\clase2sentencias\swicht\obj\Debug\net6.0\swicht.pdb
+D:\coder nuevo\curso de c#\prueba de git\prueba\clase2sentencias\swicht\obj\Debug\net6.0\swicht.genruntimeconfig.cache
+D:\coder nuevo\curso de c#\prueba de git\prueba\clase2sentencias\swicht\obj\Debug\net6.0\ref\swicht.dll
+D:\coder nuevo\curso de c#\prueba de git estan los programas\prueba\clase2sentencias\swicht\bin\Debug\net6.0\swicht.exe
+D:\coder nuevo\curso de c#\prueba de git estan los programas\prueba\clase2sentencias\swicht\bin\Debug\net6.0\swicht.deps.json
+D:\coder nuevo\curso de c#\prueba de git estan los programas\prueba\clase2sentencias\swicht\bin\Debug\net6.0\swicht.runtimeconfig.json
+D:\coder nuevo\curso de c#\prueba de git estan los programas\prueba\clase2sentencias\swicht\bin\Debug\net6.0\swicht.dll
+D:\coder nuevo\curso de c#\prueba de git estan los programas\prueba\clase2sentencias\swicht\bin\Debug\net6.0\swicht.pdb
+D:\coder nuevo\curso de c#\prueba de git estan los programas\prueba\clase2sentencias\swicht\obj\Debug\net6.0\swicht.csproj.AssemblyReference.cache
+D:\coder nuevo\curso de c#\prueba de git estan los programas\prueba\clase2sentencias\swicht\obj\Debug\net6.0\swicht.GeneratedMSBuildEditorConfig.editorconfig
+D:\coder nuevo\curso de c#\prueba de git estan los programas\prueba\clase2sentencias\swicht\obj\Debug\net6.0\swicht.AssemblyInfoInputs.cache
+D:\coder nuevo\curso de c#\prueba de git estan los programas\prueba\clase2sentencias\swicht\obj\Debug\net6.0\swicht.AssemblyInfo.cs
+D:\coder nuevo\curso de c#\prueba de git estan los programas\prueba\clase2sentencias\swicht\obj\Debug\net6.0\swicht.csproj.CoreCompileInputs.cache
+D:\coder nuevo\curso de c#\prueba de git estan los programas\prueba\clase2sentencias\swicht\obj\Debug\net6.0\swicht.dll
+D:\coder nuevo\curso de c#\prueba de git estan los programas\prueba\clase2sentencias\swicht\obj\Debug\net6.0\refint\swicht.dll
+D:\coder nuevo\curso de c#\prueba de git estan los programas\prueba\clase2sentencias\swicht\obj\Debug\net6.0\swicht.pdb
+D:\coder nuevo\curso de c#\prueba de git estan los programas\prueba\clase2sentencias\swicht\obj\Debug\net6.0\swicht.genruntimeconfig.cache
+D:\coder nuevo\curso de c#\prueba de git estan los programas\prueba\clase2sentencias\swicht\obj\Debug\net6.0\ref\swicht.dll

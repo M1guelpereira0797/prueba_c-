@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = validar_acceso_recargado_utilizando_bucles
+build_property.ProjectDir = D:\coder nuevo\curso de c#\prueba de git estan los programas\prueba\clase 4 objetos, clases y funciones\validar acceso recargado utilizando bucles\

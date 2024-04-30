@@ -1,0 +1,15 @@
+D:\coder nuevo\curso de c#\prueba de git\prueba\clase 3 bucles e iteraciones\for\for\bin\Debug\net6.0\for.exe
+D:\coder nuevo\curso de c#\prueba de git\prueba\clase 3 bucles e iteraciones\for\for\bin\Debug\net6.0\for.deps.json
+D:\coder nuevo\curso de c#\prueba de git\prueba\clase 3 bucles e iteraciones\for\for\bin\Debug\net6.0\for.runtimeconfig.json
+D:\coder nuevo\curso de c#\prueba de git\prueba\clase 3 bucles e iteraciones\for\for\bin\Debug\net6.0\for.dll
+D:\coder nuevo\curso de c#\prueba de git\prueba\clase 3 bucles e iteraciones\for\for\bin\Debug\net6.0\for.pdb
+D:\coder nuevo\curso de c#\prueba de git\prueba\clase 3 bucles e iteraciones\for\for\obj\Debug\net6.0\for.csproj.AssemblyReference.cache
+D:\coder nuevo\curso de c#\prueba de git\prueba\clase 3 bucles e iteraciones\for\for\obj\Debug\net6.0\for.GeneratedMSBuildEditorConfig.editorconfig
+D:\coder nuevo\curso de c#\prueba de git\prueba\clase 3 bucles e iteraciones\for\for\obj\Debug\net6.0\for.AssemblyInfoInputs.cache
+D:\coder nuevo\curso de c#\prueba de git\prueba\clase 3 bucles e iteraciones\for\for\obj\Debug\net6.0\for.AssemblyInfo.cs
+D:\coder nuevo\curso de c#\prueba de git\prueba\clase 3 bucles e iteraciones\for\for\obj\Debug\net6.0\for.csproj.CoreCompileInputs.cache
+D:\coder nuevo\curso de c#\prueba de git\prueba\clase 3 bucles e iteraciones\for\for\obj\Debug\net6.0\for.dll
+D:\coder nuevo\curso de c#\prueba de git\prueba\clase 3 bucles e iteraciones\for\for\obj\Debug\net6.0\refint\for.dll
+D:\coder nuevo\curso de c#\prueba de git\prueba\clase 3 bucles e iteraciones\for\for\obj\Debug\net6.0\for.pdb
+D:\coder nuevo\curso de c#\prueba de git\prueba\clase 3 bucles e iteraciones\for\for\obj\Debug\net6.0\for.genruntimeconfig.cache
+D:\coder nuevo\curso de c#\prueba de git\prueba\clase 3 bucles e iteraciones\for\for\obj\Debug\net6.0\ref\for.dll

@@ -1,0 +1,15 @@
+D:\coder nuevo\curso de c#\prueba de git\prueba\clase2sentencias\universidad\bin\Debug\net6.0\universidad.exe
+D:\coder nuevo\curso de c#\prueba de git\prueba\clase2sentencias\universidad\bin\Debug\net6.0\universidad.deps.json
+D:\coder nuevo\curso de c#\prueba de git\prueba\clase2sentencias\universidad\bin\Debug\net6.0\universidad.runtimeconfig.json
+D:\coder nuevo\curso de c#\prueba de git\prueba\clase2sentencias\universidad\bin\Debug\net6.0\universidad.dll
+D:\coder nuevo\curso de c#\prueba de git\prueba\clase2sentencias\universidad\bin\Debug\net6.0\universidad.pdb
+D:\coder nuevo\curso de c#\prueba de git\prueba\clase2sentencias\universidad\obj\Debug\net6.0\universidad.csproj.AssemblyReference.cache
+D:\coder nuevo\curso de c#\prueba de git\prueba\clase2sentencias\universidad\obj\Debug\net6.0\universidad.GeneratedMSBuildEditorConfig.editorconfig
+D:\coder nuevo\curso de c#\prueba de git\prueba\clase2sentencias\universidad\obj\Debug\net6.0\universidad.AssemblyInfoInputs.cache
+D:\coder nuevo\curso de c#\prueba de git\prueba\clase2sentencias\universidad\obj\Debug\net6.0\universidad.AssemblyInfo.cs
+D:\coder nuevo\curso de c#\prueba de git\prueba\clase2sentencias\universidad\obj\Debug\net6.0\universidad.csproj.CoreCompileInputs.cache
+D:\coder nuevo\curso de c#\prueba de git\prueba\clase2sentencias\universidad\obj\Debug\net6.0\universidad.dll
+D:\coder nuevo\curso de c#\prueba de git\prueba\clase2sentencias\universidad\obj\Debug\net6.0\refint\universidad.dll
+D:\coder nuevo\curso de c#\prueba de git\prueba\clase2sentencias\universidad\obj\Debug\net6.0\universidad.pdb
+D:\coder nuevo\curso de c#\prueba de git\prueba\clase2sentencias\universidad\obj\Debug\net6.0\universidad.genruntimeconfig.cache
+D:\coder nuevo\curso de c#\prueba de git\prueba\clase2sentencias\universidad\obj\Debug\net6.0\ref\universidad.dll

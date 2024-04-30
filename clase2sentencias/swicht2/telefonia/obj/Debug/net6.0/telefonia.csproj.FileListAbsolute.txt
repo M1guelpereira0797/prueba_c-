@@ -1,0 +1,15 @@
+D:\coder nuevo\curso de c#\prueba de git estan los programas\prueba\clase2sentencias\swicht2\telefonia\bin\Debug\net6.0\telefonia.exe
+D:\coder nuevo\curso de c#\prueba de git estan los programas\prueba\clase2sentencias\swicht2\telefonia\bin\Debug\net6.0\telefonia.deps.json
+D:\coder nuevo\curso de c#\prueba de git estan los programas\prueba\clase2sentencias\swicht2\telefonia\bin\Debug\net6.0\telefonia.runtimeconfig.json
+D:\coder nuevo\curso de c#\prueba de git estan los programas\prueba\clase2sentencias\swicht2\telefonia\bin\Debug\net6.0\telefonia.dll
+D:\coder nuevo\curso de c#\prueba de git estan los programas\prueba\clase2sentencias\swicht2\telefonia\bin\Debug\net6.0\telefonia.pdb
+D:\coder nuevo\curso de c#\prueba de git estan los programas\prueba\clase2sentencias\swicht2\telefonia\obj\Debug\net6.0\telefonia.csproj.AssemblyReference.cache
+D:\coder nuevo\curso de c#\prueba de git estan los programas\prueba\clase2sentencias\swicht2\telefonia\obj\Debug\net6.0\telefonia.GeneratedMSBuildEditorConfig.editorconfig
+D:\coder nuevo\curso de c#\prueba de git estan los programas\prueba\clase2sentencias\swicht2\telefonia\obj\Debug\net6.0\telefonia.AssemblyInfoInputs.cache
+D:\coder nuevo\curso de c#\prueba de git estan los programas\prueba\clase2sentencias\swicht2\telefonia\obj\Debug\net6.0\telefonia.AssemblyInfo.cs
+D:\coder nuevo\curso de c#\prueba de git estan los programas\prueba\clase2sentencias\swicht2\telefonia\obj\Debug\net6.0\telefonia.csproj.CoreCompileInputs.cache
+D:\coder nuevo\curso de c#\prueba de git estan los programas\prueba\clase2sentencias\swicht2\telefonia\obj\Debug\net6.0\telefonia.dll
+D:\coder nuevo\curso de c#\prueba de git estan los programas\prueba\clase2sentencias\swicht2\telefonia\obj\Debug\net6.0\refint\telefonia.dll
+D:\coder nuevo\curso de c#\prueba de git estan los programas\prueba\clase2sentencias\swicht2\telefonia\obj\Debug\net6.0\telefonia.pdb
+D:\coder nuevo\curso de c#\prueba de git estan los programas\prueba\clase2sentencias\swicht2\telefonia\obj\Debug\net6.0\telefonia.genruntimeconfig.cache
+D:\coder nuevo\curso de c#\prueba de git estan los programas\prueba\clase2sentencias\swicht2\telefonia\obj\Debug\net6.0\ref\telefonia.dll

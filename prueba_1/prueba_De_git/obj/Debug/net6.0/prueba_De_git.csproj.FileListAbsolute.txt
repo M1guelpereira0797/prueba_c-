@@ -1,0 +1,15 @@
+D:\coder nuevo\curso de c#\prueba de git\prueba\prueba_1\prueba_De_git\bin\Debug\net6.0\prueba_De_git.exe
+D:\coder nuevo\curso de c#\prueba de git\prueba\prueba_1\prueba_De_git\bin\Debug\net6.0\prueba_De_git.deps.json
+D:\coder nuevo\curso de c#\prueba de git\prueba\prueba_1\prueba_De_git\bin\Debug\net6.0\prueba_De_git.runtimeconfig.json
+D:\coder nuevo\curso de c#\prueba de git\prueba\prueba_1\prueba_De_git\bin\Debug\net6.0\prueba_De_git.dll
+D:\coder nuevo\curso de c#\prueba de git\prueba\prueba_1\prueba_De_git\bin\Debug\net6.0\prueba_De_git.pdb
+D:\coder nuevo\curso de c#\prueba de git\prueba\prueba_1\prueba_De_git\obj\Debug\net6.0\prueba_De_git.csproj.AssemblyReference.cache
+D:\coder nuevo\curso de c#\prueba de git\prueba\prueba_1\prueba_De_git\obj\Debug\net6.0\prueba_De_git.GeneratedMSBuildEditorConfig.editorconfig
+D:\coder nuevo\curso de c#\prueba de git\prueba\prueba_1\prueba_De_git\obj\Debug\net6.0\prueba_De_git.AssemblyInfoInputs.cache
+D:\coder nuevo\curso de c#\prueba de git\prueba\prueba_1\prueba_De_git\obj\Debug\net6.0\prueba_De_git.AssemblyInfo.cs
+D:\coder nuevo\curso de c#\prueba de git\prueba\prueba_1\prueba_De_git\obj\Debug\net6.0\prueba_De_git.csproj.CoreCompileInputs.cache
+D:\coder nuevo\curso de c#\prueba de git\prueba\prueba_1\prueba_De_git\obj\Debug\net6.0\prueba_De_git.dll
+D:\coder nuevo\curso de c#\prueba de git\prueba\prueba_1\prueba_De_git\obj\Debug\net6.0\refint\prueba_De_git.dll
+D:\coder nuevo\curso de c#\prueba de git\prueba\prueba_1\prueba_De_git\obj\Debug\net6.0\prueba_De_git.pdb
+D:\coder nuevo\curso de c#\prueba de git\prueba\prueba_1\prueba_De_git\obj\Debug\net6.0\prueba_De_git.genruntimeconfig.cache
+D:\coder nuevo\curso de c#\prueba de git\prueba\prueba_1\prueba_De_git\obj\Debug\net6.0\ref\prueba_De_git.dll

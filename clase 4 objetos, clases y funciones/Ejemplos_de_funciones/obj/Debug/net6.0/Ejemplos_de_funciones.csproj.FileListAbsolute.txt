@@ -1,0 +1,15 @@
+D:\coder nuevo\curso de c#\prueba de git estan los programas\prueba\clase 4 objetos, clases y funciones\Ejemplos_de_funciones\obj\Debug\net6.0\Ejemplos_de_funciones.csproj.AssemblyReference.cache
+D:\coder nuevo\curso de c#\prueba de git estan los programas\prueba\clase 4 objetos, clases y funciones\Ejemplos_de_funciones\obj\Debug\net6.0\Ejemplos_de_funciones.GeneratedMSBuildEditorConfig.editorconfig
+D:\coder nuevo\curso de c#\prueba de git estan los programas\prueba\clase 4 objetos, clases y funciones\Ejemplos_de_funciones\obj\Debug\net6.0\Ejemplos_de_funciones.AssemblyInfoInputs.cache
+D:\coder nuevo\curso de c#\prueba de git estan los programas\prueba\clase 4 objetos, clases y funciones\Ejemplos_de_funciones\obj\Debug\net6.0\Ejemplos_de_funciones.AssemblyInfo.cs
+D:\coder nuevo\curso de c#\prueba de git estan los programas\prueba\clase 4 objetos, clases y funciones\Ejemplos_de_funciones\obj\Debug\net6.0\Ejemplos_de_funciones.csproj.CoreCompileInputs.cache
+D:\coder nuevo\curso de c#\prueba de git estan los programas\prueba\clase 4 objetos, clases y funciones\Ejemplos_de_funciones\bin\Debug\net6.0\Ejemplos_de_funciones.exe
+D:\coder nuevo\curso de c#\prueba de git estan los programas\prueba\clase 4 objetos, clases y funciones\Ejemplos_de_funciones\bin\Debug\net6.0\Ejemplos_de_funciones.deps.json
+D:\coder nuevo\curso de c#\prueba de git estan los programas\prueba\clase 4 objetos, clases y funciones\Ejemplos_de_funciones\bin\Debug\net6.0\Ejemplos_de_funciones.runtimeconfig.json
+D:\coder nuevo\curso de c#\prueba de git estan los programas\prueba\clase 4 objetos, clases y funciones\Ejemplos_de_funciones\bin\Debug\net6.0\Ejemplos_de_funciones.dll
+D:\coder nuevo\curso de c#\prueba de git estan los programas\prueba\clase 4 objetos, clases y funciones\Ejemplos_de_funciones\bin\Debug\net6.0\Ejemplos_de_funciones.pdb
+D:\coder nuevo\curso de c#\prueba de git estan los programas\prueba\clase 4 objetos, clases y funciones\Ejemplos_de_funciones\obj\Debug\net6.0\Ejemplos_de_funciones.dll
+D:\coder nuevo\curso de c#\prueba de git estan los programas\prueba\clase 4 objetos, clases y funciones\Ejemplos_de_funciones\obj\Debug\net6.0\refint\Ejemplos_de_funciones.dll
+D:\coder nuevo\curso de c#\prueba de git estan los programas\prueba\clase 4 objetos, clases y funciones\Ejemplos_de_funciones\obj\Debug\net6.0\Ejemplos_de_funciones.pdb
+D:\coder nuevo\curso de c#\prueba de git estan los programas\prueba\clase 4 objetos, clases y funciones\Ejemplos_de_funciones\obj\Debug\net6.0\Ejemplos_de_funciones.genruntimeconfig.cache
+D:\coder nuevo\curso de c#\prueba de git estan los programas\prueba\clase 4 objetos, clases y funciones\Ejemplos_de_funciones\obj\Debug\net6.0\ref\Ejemplos_de_funciones.dll

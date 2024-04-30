@@ -1,0 +1,15 @@
+D:\coder nuevo\curso de c#\prueba de git\prueba\clase 3 bucles e iteraciones\bucles e iteraciomes\bin\Debug\net6.0\bucles e iteraciomes.exe
+D:\coder nuevo\curso de c#\prueba de git\prueba\clase 3 bucles e iteraciones\bucles e iteraciomes\bin\Debug\net6.0\bucles e iteraciomes.deps.json
+D:\coder nuevo\curso de c#\prueba de git\prueba\clase 3 bucles e iteraciones\bucles e iteraciomes\bin\Debug\net6.0\bucles e iteraciomes.runtimeconfig.json
+D:\coder nuevo\curso de c#\prueba de git\prueba\clase 3 bucles e iteraciones\bucles e iteraciomes\bin\Debug\net6.0\bucles e iteraciomes.dll
+D:\coder nuevo\curso de c#\prueba de git\prueba\clase 3 bucles e iteraciones\bucles e iteraciomes\bin\Debug\net6.0\bucles e iteraciomes.pdb
+D:\coder nuevo\curso de c#\prueba de git\prueba\clase 3 bucles e iteraciones\bucles e iteraciomes\obj\Debug\net6.0\bucles e iteraciomes.csproj.AssemblyReference.cache
+D:\coder nuevo\curso de c#\prueba de git\prueba\clase 3 bucles e iteraciones\bucles e iteraciomes\obj\Debug\net6.0\bucles e iteraciomes.GeneratedMSBuildEditorConfig.editorconfig
+D:\coder nuevo\curso de c#\prueba de git\prueba\clase 3 bucles e iteraciones\bucles e iteraciomes\obj\Debug\net6.0\bucles e iteraciomes.AssemblyInfoInputs.cache
+D:\coder nuevo\curso de c#\prueba de git\prueba\clase 3 bucles e iteraciones\bucles e iteraciomes\obj\Debug\net6.0\bucles e iteraciomes.AssemblyInfo.cs
+D:\coder nuevo\curso de c#\prueba de git\prueba\clase 3 bucles e iteraciones\bucles e iteraciomes\obj\Debug\net6.0\bucles e iteraciomes.csproj.CoreCompileInputs.cache
+D:\coder nuevo\curso de c#\prueba de git\prueba\clase 3 bucles e iteraciones\bucles e iteraciomes\obj\Debug\net6.0\bucles e iteraciomes.dll
+D:\coder nuevo\curso de c#\prueba de git\prueba\clase 3 bucles e iteraciones\bucles e iteraciomes\obj\Debug\net6.0\refint\bucles e iteraciomes.dll
+D:\coder nuevo\curso de c#\prueba de git\prueba\clase 3 bucles e iteraciones\bucles e iteraciomes\obj\Debug\net6.0\bucles e iteraciomes.pdb
+D:\coder nuevo\curso de c#\prueba de git\prueba\clase 3 bucles e iteraciones\bucles e iteraciomes\obj\Debug\net6.0\bucles e iteraciomes.genruntimeconfig.cache
+D:\coder nuevo\curso de c#\prueba de git\prueba\clase 3 bucles e iteraciones\bucles e iteraciomes\obj\Debug\net6.0\ref\bucles e iteraciomes.dll

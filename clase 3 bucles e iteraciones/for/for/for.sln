@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "for", "for.csproj", "{2CD95B32-78EA-4E79-B15D-EEBB621D0234}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "validacion de usuario por for y while", "..\..\validacion de usuario por for\ConsoleApp1\validacion de usuario por for y while.csproj", "{F4F9EA3E-FA88-4E4A-B413-0AFDB8429305}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CD95B32-78EA-4E79-B15D-EEBB621D0234}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CD95B32-78EA-4E79-B15D-EEBB621D0234}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CD95B32-78EA-4E79-B15D-EEBB621D0234}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CD95B32-78EA-4E79-B15D-EEBB621D0234}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4F9EA3E-FA88-4E4A-B413-0AFDB8429305}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4F9EA3E-FA88-4E4A-B413-0AFDB8429305}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4F9EA3E-FA88-4E4A-B413-0AFDB8429305}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4F9EA3E-FA88-4E4A-B413-0AFDB8429305}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {663D05D1-3EA8-4703-B78F-95C29431D0F1}
+	EndGlobalSection
+EndGlobal

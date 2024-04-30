@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "validar acceso recargado utilizando bucles/1.0.0": {
+        "runtime": {
+          "validar acceso recargado utilizando bucles.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "validar acceso recargado utilizando bucles/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

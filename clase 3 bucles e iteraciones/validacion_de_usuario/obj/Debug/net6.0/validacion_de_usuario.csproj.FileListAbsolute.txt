@@ -1,0 +1,15 @@
+D:\coder nuevo\curso de c#\prueba de git\prueba\clase 3 bucles e iteraciones\validacion_de_usuario\bin\Debug\net6.0\validacion_de_usuario.exe
+D:\coder nuevo\curso de c#\prueba de git\prueba\clase 3 bucles e iteraciones\validacion_de_usuario\bin\Debug\net6.0\validacion_de_usuario.deps.json
+D:\coder nuevo\curso de c#\prueba de git\prueba\clase 3 bucles e iteraciones\validacion_de_usuario\bin\Debug\net6.0\validacion_de_usuario.runtimeconfig.json
+D:\coder nuevo\curso de c#\prueba de git\prueba\clase 3 bucles e iteraciones\validacion_de_usuario\bin\Debug\net6.0\validacion_de_usuario.dll
+D:\coder nuevo\curso de c#\prueba de git\prueba\clase 3 bucles e iteraciones\validacion_de_usuario\bin\Debug\net6.0\validacion_de_usuario.pdb
+D:\coder nuevo\curso de c#\prueba de git\prueba\clase 3 bucles e iteraciones\validacion_de_usuario\obj\Debug\net6.0\validacion_de_usuario.csproj.AssemblyReference.cache
+D:\coder nuevo\curso de c#\prueba de git\prueba\clase 3 bucles e iteraciones\validacion_de_usuario\obj\Debug\net6.0\validacion_de_usuario.GeneratedMSBuildEditorConfig.editorconfig
+D:\coder nuevo\curso de c#\prueba de git\prueba\clase 3 bucles e iteraciones\validacion_de_usuario\obj\Debug\net6.0\validacion_de_usuario.AssemblyInfoInputs.cache
+D:\coder nuevo\curso de c#\prueba de git\prueba\clase 3 bucles e iteraciones\validacion_de_usuario\obj\Debug\net6.0\validacion_de_usuario.AssemblyInfo.cs
+D:\coder nuevo\curso de c#\prueba de git\prueba\clase 3 bucles e iteraciones\validacion_de_usuario\obj\Debug\net6.0\validacion_de_usuario.csproj.CoreCompileInputs.cache
+D:\coder nuevo\curso de c#\prueba de git\prueba\clase 3 bucles e iteraciones\validacion_de_usuario\obj\Debug\net6.0\validacion_de_usuario.dll
+D:\coder nuevo\curso de c#\prueba de git\prueba\clase 3 bucles e iteraciones\validacion_de_usuario\obj\Debug\net6.0\refint\validacion_de_usuario.dll
+D:\coder nuevo\curso de c#\prueba de git\prueba\clase 3 bucles e iteraciones\validacion_de_usuario\obj\Debug\net6.0\validacion_de_usuario.pdb
+D:\coder nuevo\curso de c#\prueba de git\prueba\clase 3 bucles e iteraciones\validacion_de_usuario\obj\Debug\net6.0\validacion_de_usuario.genruntimeconfig.cache
+D:\coder nuevo\curso de c#\prueba de git\prueba\clase 3 bucles e iteraciones\validacion_de_usuario\obj\Debug\net6.0\ref\validacion_de_usuario.dll
