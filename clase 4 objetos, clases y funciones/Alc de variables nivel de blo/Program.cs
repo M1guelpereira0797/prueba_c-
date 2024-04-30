@@ -15,3 +15,17 @@
 
 }
 mostrarnumeros();*/
+
+void mostrar()
+{
+
+    int m = 10;
+    Console.WriteLine(m);  
+}
+
+void mostrarotrafuncion()
+{
+    Console.WriteLine();
+}
+mostrar();
+mostrarotrafuncion();

@@ -13,3 +13,18 @@ D:\coder nuevo\curso de c#\prueba de git estan los programas\prueba\clase 4 obje
 D:\coder nuevo\curso de c#\prueba de git estan los programas\prueba\clase 4 objetos, clases y funciones\Alc de variables nivel de blo\obj\Debug\net6.0\Alc de variables nivel de blo.pdb
 D:\coder nuevo\curso de c#\prueba de git estan los programas\prueba\clase 4 objetos, clases y funciones\Alc de variables nivel de blo\obj\Debug\net6.0\Alc de variables nivel de blo.genruntimeconfig.cache
 D:\coder nuevo\curso de c#\prueba de git estan los programas\prueba\clase 4 objetos, clases y funciones\Alc de variables nivel de blo\obj\Debug\net6.0\ref\Alc de variables nivel de blo.dll
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 4 objetos, clases y funciones\Alc de variables nivel de blo\obj\Debug\net6.0\Alc de variables nivel de blo.csproj.AssemblyReference.cache
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 4 objetos, clases y funciones\Alc de variables nivel de blo\obj\Debug\net6.0\Alc de variables nivel de blo.GeneratedMSBuildEditorConfig.editorconfig
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 4 objetos, clases y funciones\Alc de variables nivel de blo\obj\Debug\net6.0\Alc de variables nivel de blo.AssemblyInfoInputs.cache
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 4 objetos, clases y funciones\Alc de variables nivel de blo\obj\Debug\net6.0\Alc de variables nivel de blo.AssemblyInfo.cs
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 4 objetos, clases y funciones\Alc de variables nivel de blo\obj\Debug\net6.0\Alc de variables nivel de blo.csproj.CoreCompileInputs.cache
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 4 objetos, clases y funciones\Alc de variables nivel de blo\obj\Debug\net6.0\Alc de variables nivel de blo.dll
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 4 objetos, clases y funciones\Alc de variables nivel de blo\obj\Debug\net6.0\refint\Alc de variables nivel de blo.dll
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 4 objetos, clases y funciones\Alc de variables nivel de blo\obj\Debug\net6.0\Alc de variables nivel de blo.pdb
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 4 objetos, clases y funciones\Alc de variables nivel de blo\bin\Debug\net6.0\Alc de variables nivel de blo.exe
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 4 objetos, clases y funciones\Alc de variables nivel de blo\bin\Debug\net6.0\Alc de variables nivel de blo.deps.json
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 4 objetos, clases y funciones\Alc de variables nivel de blo\bin\Debug\net6.0\Alc de variables nivel de blo.runtimeconfig.json
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 4 objetos, clases y funciones\Alc de variables nivel de blo\bin\Debug\net6.0\Alc de variables nivel de blo.dll
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 4 objetos, clases y funciones\Alc de variables nivel de blo\bin\Debug\net6.0\Alc de variables nivel de blo.pdb
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 4 objetos, clases y funciones\Alc de variables nivel de blo\obj\Debug\net6.0\Alc de variables nivel de blo.genruntimeconfig.cache
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 4 objetos, clases y funciones\Alc de variables nivel de blo\obj\Debug\net6.0\ref\Alc de variables nivel de blo.dll

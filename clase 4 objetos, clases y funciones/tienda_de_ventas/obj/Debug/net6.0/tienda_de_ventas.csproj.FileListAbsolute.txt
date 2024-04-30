@@ -1,0 +1,15 @@
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 4 objetos, clases y funciones\tienda_de_ventas\bin\Debug\net6.0\tienda_de_ventas.exe
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 4 objetos, clases y funciones\tienda_de_ventas\bin\Debug\net6.0\tienda_de_ventas.deps.json
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 4 objetos, clases y funciones\tienda_de_ventas\bin\Debug\net6.0\tienda_de_ventas.runtimeconfig.json
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 4 objetos, clases y funciones\tienda_de_ventas\bin\Debug\net6.0\tienda_de_ventas.dll
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 4 objetos, clases y funciones\tienda_de_ventas\bin\Debug\net6.0\tienda_de_ventas.pdb
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 4 objetos, clases y funciones\tienda_de_ventas\obj\Debug\net6.0\tienda_de_ventas.csproj.AssemblyReference.cache
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 4 objetos, clases y funciones\tienda_de_ventas\obj\Debug\net6.0\tienda_de_ventas.GeneratedMSBuildEditorConfig.editorconfig
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 4 objetos, clases y funciones\tienda_de_ventas\obj\Debug\net6.0\tienda_de_ventas.AssemblyInfoInputs.cache
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 4 objetos, clases y funciones\tienda_de_ventas\obj\Debug\net6.0\tienda_de_ventas.AssemblyInfo.cs
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 4 objetos, clases y funciones\tienda_de_ventas\obj\Debug\net6.0\tienda_de_ventas.csproj.CoreCompileInputs.cache
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 4 objetos, clases y funciones\tienda_de_ventas\obj\Debug\net6.0\tienda_de_ventas.dll
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 4 objetos, clases y funciones\tienda_de_ventas\obj\Debug\net6.0\refint\tienda_de_ventas.dll
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 4 objetos, clases y funciones\tienda_de_ventas\obj\Debug\net6.0\tienda_de_ventas.pdb
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 4 objetos, clases y funciones\tienda_de_ventas\obj\Debug\net6.0\tienda_de_ventas.genruntimeconfig.cache
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 4 objetos, clases y funciones\tienda_de_ventas\obj\Debug\net6.0\ref\tienda_de_ventas.dll
