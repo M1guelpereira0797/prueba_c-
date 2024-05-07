@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "creacion_nuevo_usuario_parte2/1.0.0": {
+        "runtime": {
+          "creacion_nuevo_usuario_parte2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "creacion_nuevo_usuario_parte2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase5 clases y poo\creacion_nuevo_usuario_parte2\obj\Debug\net6.0\creacion_nuevo_usuario_parte2.csproj.AssemblyReference.cache
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase5 clases y poo\creacion_nuevo_usuario_parte2\obj\Debug\net6.0\creacion_nuevo_usuario_parte2.GeneratedMSBuildEditorConfig.editorconfig
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase5 clases y poo\creacion_nuevo_usuario_parte2\obj\Debug\net6.0\creacion_nuevo_usuario_parte2.AssemblyInfoInputs.cache
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase5 clases y poo\creacion_nuevo_usuario_parte2\obj\Debug\net6.0\creacion_nuevo_usuario_parte2.AssemblyInfo.cs
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase5 clases y poo\creacion_nuevo_usuario_parte2\obj\Debug\net6.0\creacion_nuevo_usuario_parte2.csproj.CoreCompileInputs.cache
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase5 clases y poo\creacion_nuevo_usuario_parte2\bin\Debug\net6.0\creacion_nuevo_usuario_parte2.exe
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase5 clases y poo\creacion_nuevo_usuario_parte2\bin\Debug\net6.0\creacion_nuevo_usuario_parte2.deps.json
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase5 clases y poo\creacion_nuevo_usuario_parte2\bin\Debug\net6.0\creacion_nuevo_usuario_parte2.runtimeconfig.json
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase5 clases y poo\creacion_nuevo_usuario_parte2\bin\Debug\net6.0\creacion_nuevo_usuario_parte2.dll
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase5 clases y poo\creacion_nuevo_usuario_parte2\bin\Debug\net6.0\creacion_nuevo_usuario_parte2.pdb
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase5 clases y poo\creacion_nuevo_usuario_parte2\obj\Debug\net6.0\creacion_nuevo_usuario_parte2.dll
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase5 clases y poo\creacion_nuevo_usuario_parte2\obj\Debug\net6.0\refint\creacion_nuevo_usuario_parte2.dll
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase5 clases y poo\creacion_nuevo_usuario_parte2\obj\Debug\net6.0\creacion_nuevo_usuario_parte2.pdb
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase5 clases y poo\creacion_nuevo_usuario_parte2\obj\Debug\net6.0\creacion_nuevo_usuario_parte2.genruntimeconfig.cache
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase5 clases y poo\creacion_nuevo_usuario_parte2\obj\Debug\net6.0\ref\creacion_nuevo_usuario_parte2.dll
