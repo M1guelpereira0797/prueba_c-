@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "creacion de usuario", "crea
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "creacion_nuevo_usuario_parte2", "..\creacion_nuevo_usuario_parte2\creacion_nuevo_usuario_parte2.csproj", "{FA61C944-EB90-4CBB-A0E9-1D021AED8F6C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App_usuario", "..\App_usuario\App_usuario.csproj", "{C3534D9C-ED2C-4B4D-90FC-9609CDA8580A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{FA61C944-EB90-4CBB-A0E9-1D021AED8F6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FA61C944-EB90-4CBB-A0E9-1D021AED8F6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FA61C944-EB90-4CBB-A0E9-1D021AED8F6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3534D9C-ED2C-4B4D-90FC-9609CDA8580A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3534D9C-ED2C-4B4D-90FC-9609CDA8580A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3534D9C-ED2C-4B4D-90FC-9609CDA8580A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3534D9C-ED2C-4B4D-90FC-9609CDA8580A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

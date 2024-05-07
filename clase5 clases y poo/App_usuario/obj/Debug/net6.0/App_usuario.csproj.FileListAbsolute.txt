@@ -1,0 +1,15 @@
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase5 clases y poo\App_usuario\bin\Debug\net6.0\App_usuario.exe
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase5 clases y poo\App_usuario\bin\Debug\net6.0\App_usuario.deps.json
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase5 clases y poo\App_usuario\bin\Debug\net6.0\App_usuario.runtimeconfig.json
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase5 clases y poo\App_usuario\bin\Debug\net6.0\App_usuario.dll
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase5 clases y poo\App_usuario\bin\Debug\net6.0\App_usuario.pdb
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase5 clases y poo\App_usuario\obj\Debug\net6.0\App_usuario.csproj.AssemblyReference.cache
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase5 clases y poo\App_usuario\obj\Debug\net6.0\App_usuario.GeneratedMSBuildEditorConfig.editorconfig
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase5 clases y poo\App_usuario\obj\Debug\net6.0\App_usuario.AssemblyInfoInputs.cache
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase5 clases y poo\App_usuario\obj\Debug\net6.0\App_usuario.AssemblyInfo.cs
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase5 clases y poo\App_usuario\obj\Debug\net6.0\App_usuario.csproj.CoreCompileInputs.cache
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase5 clases y poo\App_usuario\obj\Debug\net6.0\App_usuario.dll
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase5 clases y poo\App_usuario\obj\Debug\net6.0\refint\App_usuario.dll
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase5 clases y poo\App_usuario\obj\Debug\net6.0\App_usuario.pdb
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase5 clases y poo\App_usuario\obj\Debug\net6.0\App_usuario.genruntimeconfig.cache
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase5 clases y poo\App_usuario\obj\Debug\net6.0\ref\App_usuario.dll
