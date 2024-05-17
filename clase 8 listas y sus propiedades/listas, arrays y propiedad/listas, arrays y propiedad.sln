@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "listas, arrays y propiedad", "listas, arrays y propiedad.csproj", "{D9B7516B-6547-4618-847D-A8B7D2CD55B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9B7516B-6547-4618-847D-A8B7D2CD55B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9B7516B-6547-4618-847D-A8B7D2CD55B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9B7516B-6547-4618-847D-A8B7D2CD55B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9B7516B-6547-4618-847D-A8B7D2CD55B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82D46C27-058A-4DCC-8C88-C8AEB991E453}
+	EndGlobalSection
+EndGlobal
