@@ -1,0 +1,17 @@
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 8 listas y sus propiedades\listas, arrays y propiedad\bin\Debug\net6.0-windows\listas, arrays y propiedad.exe
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 8 listas y sus propiedades\listas, arrays y propiedad\bin\Debug\net6.0-windows\listas, arrays y propiedad.deps.json
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 8 listas y sus propiedades\listas, arrays y propiedad\bin\Debug\net6.0-windows\listas, arrays y propiedad.runtimeconfig.json
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 8 listas y sus propiedades\listas, arrays y propiedad\bin\Debug\net6.0-windows\listas, arrays y propiedad.dll
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 8 listas y sus propiedades\listas, arrays y propiedad\bin\Debug\net6.0-windows\listas, arrays y propiedad.pdb
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 8 listas y sus propiedades\listas, arrays y propiedad\obj\Debug\net6.0-windows\listas, arrays y propiedad.csproj.AssemblyReference.cache
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 8 listas y sus propiedades\listas, arrays y propiedad\obj\Debug\net6.0-windows\listas__arrays_y_propiedad.Form1.resources
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 8 listas y sus propiedades\listas, arrays y propiedad\obj\Debug\net6.0-windows\listas, arrays y propiedad.csproj.GenerateResource.cache
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 8 listas y sus propiedades\listas, arrays y propiedad\obj\Debug\net6.0-windows\listas, arrays y propiedad.GeneratedMSBuildEditorConfig.editorconfig
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 8 listas y sus propiedades\listas, arrays y propiedad\obj\Debug\net6.0-windows\listas, arrays y propiedad.AssemblyInfoInputs.cache
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 8 listas y sus propiedades\listas, arrays y propiedad\obj\Debug\net6.0-windows\listas, arrays y propiedad.AssemblyInfo.cs
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 8 listas y sus propiedades\listas, arrays y propiedad\obj\Debug\net6.0-windows\listas, arrays y propiedad.csproj.CoreCompileInputs.cache
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 8 listas y sus propiedades\listas, arrays y propiedad\obj\Debug\net6.0-windows\listas, arrays y propiedad.dll
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 8 listas y sus propiedades\listas, arrays y propiedad\obj\Debug\net6.0-windows\refint\listas, arrays y propiedad.dll
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 8 listas y sus propiedades\listas, arrays y propiedad\obj\Debug\net6.0-windows\listas, arrays y propiedad.pdb
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 8 listas y sus propiedades\listas, arrays y propiedad\obj\Debug\net6.0-windows\listas, arrays y propiedad.genruntimeconfig.cache
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 8 listas y sus propiedades\listas, arrays y propiedad\obj\Debug\net6.0-windows\ref\listas, arrays y propiedad.dll
