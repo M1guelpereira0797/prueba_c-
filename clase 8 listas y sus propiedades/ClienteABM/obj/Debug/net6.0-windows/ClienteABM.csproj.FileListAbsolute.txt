@@ -1,0 +1,17 @@
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 8 listas y sus propiedades\ClienteABM\bin\Debug\net6.0-windows\ClienteABM.exe
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 8 listas y sus propiedades\ClienteABM\bin\Debug\net6.0-windows\ClienteABM.deps.json
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 8 listas y sus propiedades\ClienteABM\bin\Debug\net6.0-windows\ClienteABM.runtimeconfig.json
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 8 listas y sus propiedades\ClienteABM\bin\Debug\net6.0-windows\ClienteABM.dll
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 8 listas y sus propiedades\ClienteABM\bin\Debug\net6.0-windows\ClienteABM.pdb
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 8 listas y sus propiedades\ClienteABM\obj\Debug\net6.0-windows\ClienteABM.csproj.AssemblyReference.cache
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 8 listas y sus propiedades\ClienteABM\obj\Debug\net6.0-windows\ClienteABM.Form1.resources
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 8 listas y sus propiedades\ClienteABM\obj\Debug\net6.0-windows\ClienteABM.csproj.GenerateResource.cache
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 8 listas y sus propiedades\ClienteABM\obj\Debug\net6.0-windows\ClienteABM.GeneratedMSBuildEditorConfig.editorconfig
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 8 listas y sus propiedades\ClienteABM\obj\Debug\net6.0-windows\ClienteABM.AssemblyInfoInputs.cache
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 8 listas y sus propiedades\ClienteABM\obj\Debug\net6.0-windows\ClienteABM.AssemblyInfo.cs
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 8 listas y sus propiedades\ClienteABM\obj\Debug\net6.0-windows\ClienteABM.csproj.CoreCompileInputs.cache
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 8 listas y sus propiedades\ClienteABM\obj\Debug\net6.0-windows\ClienteABM.dll
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 8 listas y sus propiedades\ClienteABM\obj\Debug\net6.0-windows\refint\ClienteABM.dll
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 8 listas y sus propiedades\ClienteABM\obj\Debug\net6.0-windows\ClienteABM.pdb
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 8 listas y sus propiedades\ClienteABM\obj\Debug\net6.0-windows\ClienteABM.genruntimeconfig.cache
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 8 listas y sus propiedades\ClienteABM\obj\Debug\net6.0-windows\ref\ClienteABM.dll

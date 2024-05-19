@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ClienteABM
 {
-    public class ListaDeMayores
+    /*public class ListaDeMayores
     {
         public List<Cliente> _clientesMayores;
 
@@ -15,16 +15,16 @@ namespace ClienteABM
             _clientesMayores = new List<Cliente>();
 
         }
-        public void InsertarEnLista(Cliente[] clientes )
+        /*public void InsertarEnLista(Cliente[] clientes )
         {
             for (int i = 0; i < clientes.Length; i++) 
             {
-                _clientesMayores.Add(new Cliente(clientes[i].Nombre, clientes[i].Direccion, clientes[i].ID, clientes[i].Edad));
+                _clientesMayores.Add(new Cliente(clientes[i].nombre, clientes[i].direccion, clientes[i].iD, clientes[i].edad));
             }
-        }
-        public bool Borrar(Cliente cliente)
+        }*/
+       /* public bool Borrar(Cliente cliente)
         {
-            if(!_clientesMayores.Contains(cliente))
+            /*if(!_clientesMayores.Contains(cliente))
             {
                 return false;
             }
@@ -49,6 +49,20 @@ namespace ClienteABM
             _clientesMayores[posicion] = clienteNuevo; 
             return true;
         }
+        public void LimpiarLista()
+        {
+            _clientesMayores.Clear();
+        }
+        public int CompararCliente( Cliente cliente1, Cliente cliente2)
+        {
+            return cliente1.iD.CompareTo(cliente2.iD);
+        }
+        public void Ordenar()
+        {
+            _clientesMayores.Sort(CompararCliente);
+        }
     }
+       */
 
+   
 }
