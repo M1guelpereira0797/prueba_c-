@@ -1,0 +1,7 @@
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 9 ado.net\Base_Prueba2\obj\Debug\net6.0-windows\WindowsFormApp1.csproj.AssemblyReference.cache
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 9 ado.net\Base_Prueba2\obj\Debug\net6.0-windows\WindowsFormApp1.Form1.resources
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 9 ado.net\Base_Prueba2\obj\Debug\net6.0-windows\WindowsFormApp1.csproj.GenerateResource.cache
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 9 ado.net\Base_Prueba2\obj\Debug\net6.0-windows\WindowsFormApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 9 ado.net\Base_Prueba2\obj\Debug\net6.0-windows\WindowsFormApp1.AssemblyInfoInputs.cache
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 9 ado.net\Base_Prueba2\obj\Debug\net6.0-windows\WindowsFormApp1.AssemblyInfo.cs
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 9 ado.net\Base_Prueba2\obj\Debug\net6.0-windows\WindowsFormApp1.csproj.CoreCompileInputs.cache
