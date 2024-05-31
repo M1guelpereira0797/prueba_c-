@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kP/7V3XXT9xPV7I/kbGKthciSLs/YGZIQTMmOjXpplnTAJwNlumH6AmdBXbD3ZVehRbXf4F/dDOuxiksrB5TYQ==",
+  "dgSpecHash": "oqULHXqAv0W0B05A0lQZdg3hiI0W1xUOy4F7l2bxOpCLVcFklSkJ13B/AaccKiYA8Jo8ZJE4qkkDfe4cf9/+Qg==",
   "success": true,
-  "projectFilePath": "D:\\coder nuevo\\curso de c#\\progrmas curso c# coder house\\prueba_c-\\Clase 10; manejo de datos con ado.net\\App1\\App1.csproj",
+  "projectFilePath": "D:\\coder nuevo\\curso de c#\\progrmas curso c# coder house\\prueba_c-\\Clase 10 manejo de datos con ado.net\\App1\\App1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\migue\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\migue\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
