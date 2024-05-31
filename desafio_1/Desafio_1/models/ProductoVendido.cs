@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Desafio_1
+namespace Desafio_1.models
 {
     public class ProductoVendido
     {
@@ -16,10 +16,10 @@ namespace Desafio_1
 
         public ProductoVendido(int id, int idProducto, int stock, int idVenta)
         {
-            this._id = id;
-            this._idProducto = idProducto;
-            this._stock = stock;
-            this._idVenta = idVenta;
+            _id = id;
+            _idProducto = idProducto;
+            _stock = stock;
+            _idVenta = idVenta;
         }
     }
 }

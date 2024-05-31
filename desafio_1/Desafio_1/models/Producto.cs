@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 
-namespace Desafio_1
+namespace Desafio_1.models
 {
     public class Producto
     {
@@ -19,14 +19,14 @@ namespace Desafio_1
 
 
 
-        public Producto(int id, string descripcion, float costo, float precioVenta, int stock , string idUsuario)
+        public Producto(int id, string descripcion, float costo, float precioVenta, int stock, string idUsuario)
         {
-            this._id = id;
-            this._descripcion = descripcion;
-            this._costo = costo;
-            this._precioVenta = precioVenta;
-            this._stock = stock;
-            this._idUsuario = idUsuario;
+            _id = id;
+            _descripcion = descripcion;
+            _costo = costo;
+            _precioVenta = precioVenta;
+            _stock = stock;
+            _idUsuario = idUsuario;
 
 
         }

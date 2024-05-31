@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 
-namespace Desafio_1
+namespace Desafio_1.models
 {
     public class Venta
     {
