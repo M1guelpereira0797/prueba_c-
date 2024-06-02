@@ -82,11 +82,11 @@ namespace Desafio_2.database
             }
             return listprodcuto;
         }
-        public static void CrearUsuarioData(VentaData venta)
+        public static void CrearVentaData(VentaData venta)
         {
             string connectionString = @"Server=localhost\SQLEXPRESS01;Database=Desafio_1; Trusted_Connection=True";
-            string query = "INSERT INTO Usuario (Nombre, Apellido, NombreUsuario, Contrasena, Mail)" +
-            "VALUES(@Nombre, @Apellido, @NombreUsuario, @Contrasena , @Mail)";
+            string query = "INSERT INTO Producto (ID, Comentarios, IdUsuario)" +
+            "VALUES(@ID, @Comentarios, @IdUsuario)";
 
             using (SqlConnection connection = new SqlConnection(connectionString))
             {
@@ -94,24 +94,20 @@ namespace Desafio_2.database
                 using (SqlCommand crear = new SqlCommand(query, connection))
                 {
 
-                    crear.Parameters.Add(new SqlParameter("Nombre", SqlDbType.VarChar) { Value = venta.Id});
-                    crear.Parameters.Add(new SqlParameter("Apellido", SqlDbType.Money) { Value = venta.Comentarios });
-                    crear.Parameters.Add(new SqlParameter("NombreUsuario", SqlDbType.Int) { Value = venta.idUsuario });
-                    crear.Parameters.Add(new SqlParameter("Contrasena", SqlDbType.VarChar) { Value = usuario.Contrasena });
-                    crear.Parameters.Add(new SqlParameter("Mail", SqlDbType.VarChar) { Value = usuario.Mail });
+                    crear.Parameters.Add(new SqlParameter(" Id ", SqlDbType.VarChar) { Value = venta.Id});
+                    crear.Parameters.Add(new SqlParameter(" Comentarios ", SqlDbType.Money) { Value = venta.Comentarios });
+                    crear.Parameters.Add(new SqlParameter("Id Usuario", SqlDbType.Int) { Value = venta.idUsuario });
+                  
                 }
                 connection.Close();
             }
         }
-        public static void ModificarUsuarioData(UsuarioData usuario)
+        public static void ModificarVentaData(VentaData venta)
         {
             string connectionString = @"Server=localhost\SQLEXPRESS01;Database=Desafio_1; Trusted_Connection=True";
-            string query = " UPDATE Usuario" +
-                           " SET Nombre  " +
-                           ", Apellido = @Apellido " +
-                           ", NombreUsuario = @NombreUsuario " +
-                           ", Contrasena = @Contrasena " +
-                           ", Mail = @Mail " +
+            string query = " UPDATE Id" +
+                           " SET Comentarios  " +
+                           ", IdUsuario = @IdUsuario " +
                            "WHERE Id = @Id ";
 
             using (SqlConnection connection = new SqlConnection(connectionString))
@@ -119,29 +115,27 @@ namespace Desafio_2.database
                 connection.Open();
                 using (SqlCommand modificar = new SqlCommand(query, connection))
                 {
-                    modificar.Parameters.Add(new SqlParameter("Id", SqlDbType.Int) { Value = usuario.Id });
-                    modificar.Parameters.Add(new SqlParameter("Nombre", SqlDbType.Int) { Value = usuario.Nombre });
-                    modificar.Parameters.Add(new SqlParameter("Apellido", SqlDbType.Money) { Value = usuario.Apellido });
-                    modificar.Parameters.Add(new SqlParameter("NombreUsuario", SqlDbType.VarChar) { Value = usuario.NombreUsuario });
-                    modificar.Parameters.Add(new SqlParameter("Contrasena", SqlDbType.VarChar) { Value = usuario.Contrasena });
-                    modificar.Parameters.Add(new SqlParameter("Mail", SqlDbType.VarChar) { Value = usuario.Mail });
+                    modificar.Parameters.Add(new SqlParameter("Id", SqlDbType.Int) { Value =venta.Id });
+                    modificar.Parameters.Add(new SqlParameter(" Comentarios ", SqlDbType.Int) { Value = venta.Comentarios });
+                    modificar.Parameters.Add(new SqlParameter(" IdUsuario ", SqlDbType.Money) { Value = venta.idUsuario });
+                    
 
 
                 }
                 connection.Close();
             }
         }
-        public static void EliminarUsuarioData(UsuarioData usuario)
+        public static void EliminarVentaData(VentaData venta)
         {
             string connectionString = @"Server=localhost\SQLEXPRESS01;Database=Desafio_1; Trusted_Connection=True";
-            string query = "DELETE FROM Usuario WHERE Id = @Id";
+            string query = "DELETE FROM Producto WHERE Id = @Id";
 
             using (SqlConnection connection = new SqlConnection(connectionString))
             {
                 connection.Open();
                 using (SqlCommand eliminar = new SqlCommand(query, connection))
                 {
-                    eliminar.Parameters.Add(new SqlParameter("Id", SqlDbType.Int) { Value = usuario.Id });
+                    eliminar.Parameters.Add(new SqlParameter("Id", SqlDbType.Int) { Value = venta.Id });
 
                 }
                 connection.Close();

@@ -84,26 +84,7 @@ namespace Desafio_2.database
             }
             return listprodcuto;
         }
-        public static void CrearProducto(ProductoVendidoData producto)
-        {
-            string connectionString = @"Server=localhost\SQLEXPRESS01;Database=Desafio_1; Trusted_Connection=True";
-            string query = "INSERT INTO Producto (IdVenta, idVenta, Stock, IdProducto)" +
-            "VALUES(@Descripcion, @, @idVenta, @Stock, @idProducto)";
-
-            using (SqlConnection connection = new SqlConnection(connectionString))
-            {
-                connection.Open();
-                using (SqlCommand crear = new SqlCommand(query, connection))
-                {
-
-                    crear.Parameters.Add(new SqlParameter("ID Venta", SqlDbType.VarChar) { Value = producto.idVenta });
-                    crear.Parameters.Add(new SqlParameter("Stock", SqlDbType.Money) { Value = producto.Stock });
-                    crear.Parameters.Add(new SqlParameter("IdVenta", SqlDbType.Int) { Value = producto.idVenta });
-                    crear.Parameters.Add(new SqlParameter("IdProducto", SqlDbType.VarChar) { Value = producto.idProducto });
-                }
-                connection.Close();
-            }
-        }
+      
         public static void ModificarProductoVendido(ProductoVendidoData producto)
         {
             string connectionString = @"Server=localhost\SQLEXPRESS01;Database=Desafio_1; Trusted_Connection=True";
