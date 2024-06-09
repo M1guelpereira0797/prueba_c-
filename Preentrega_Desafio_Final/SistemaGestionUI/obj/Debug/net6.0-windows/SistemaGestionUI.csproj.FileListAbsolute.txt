@@ -1,0 +1,15 @@
+D:\coder nuevo\curso_de_c#\progrmas _curso_c#_coder_house\prueba_c-\Preentrega_Desafio_Final\SistemaGestionUI\bin\Debug\net6.0-windows\SistemaGestionUI.exe
+D:\coder nuevo\curso_de_c#\progrmas _curso_c#_coder_house\prueba_c-\Preentrega_Desafio_Final\SistemaGestionUI\bin\Debug\net6.0-windows\SistemaGestionUI.deps.json
+D:\coder nuevo\curso_de_c#\progrmas _curso_c#_coder_house\prueba_c-\Preentrega_Desafio_Final\SistemaGestionUI\bin\Debug\net6.0-windows\SistemaGestionUI.runtimeconfig.json
+D:\coder nuevo\curso_de_c#\progrmas _curso_c#_coder_house\prueba_c-\Preentrega_Desafio_Final\SistemaGestionUI\bin\Debug\net6.0-windows\SistemaGestionUI.dll
+D:\coder nuevo\curso_de_c#\progrmas _curso_c#_coder_house\prueba_c-\Preentrega_Desafio_Final\SistemaGestionUI\bin\Debug\net6.0-windows\SistemaGestionUI.pdb
+D:\coder nuevo\curso_de_c#\progrmas _curso_c#_coder_house\prueba_c-\Preentrega_Desafio_Final\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.csproj.AssemblyReference.cache
+D:\coder nuevo\curso_de_c#\progrmas _curso_c#_coder_house\prueba_c-\Preentrega_Desafio_Final\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\coder nuevo\curso_de_c#\progrmas _curso_c#_coder_house\prueba_c-\Preentrega_Desafio_Final\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.AssemblyInfoInputs.cache
+D:\coder nuevo\curso_de_c#\progrmas _curso_c#_coder_house\prueba_c-\Preentrega_Desafio_Final\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.AssemblyInfo.cs
+D:\coder nuevo\curso_de_c#\progrmas _curso_c#_coder_house\prueba_c-\Preentrega_Desafio_Final\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.csproj.CoreCompileInputs.cache
+D:\coder nuevo\curso_de_c#\progrmas _curso_c#_coder_house\prueba_c-\Preentrega_Desafio_Final\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.dll
+D:\coder nuevo\curso_de_c#\progrmas _curso_c#_coder_house\prueba_c-\Preentrega_Desafio_Final\SistemaGestionUI\obj\Debug\net6.0-windows\refint\SistemaGestionUI.dll
+D:\coder nuevo\curso_de_c#\progrmas _curso_c#_coder_house\prueba_c-\Preentrega_Desafio_Final\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.pdb
+D:\coder nuevo\curso_de_c#\progrmas _curso_c#_coder_house\prueba_c-\Preentrega_Desafio_Final\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.genruntimeconfig.cache
+D:\coder nuevo\curso_de_c#\progrmas _curso_c#_coder_house\prueba_c-\Preentrega_Desafio_Final\SistemaGestionUI\obj\Debug\net6.0-windows\ref\SistemaGestionUI.dll
