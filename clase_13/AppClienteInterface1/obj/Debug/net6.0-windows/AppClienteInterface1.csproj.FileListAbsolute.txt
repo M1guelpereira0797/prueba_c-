@@ -1,0 +1,7 @@
+D:\coder nuevo\curso_de_c#\progrmas _curso_c#_coder_house\prueba_c-\clase_13\AppClienteInterface1\obj\Debug\net6.0-windows\AppClienteInterface1.csproj.AssemblyReference.cache
+D:\coder nuevo\curso_de_c#\progrmas _curso_c#_coder_house\prueba_c-\clase_13\AppClienteInterface1\obj\Debug\net6.0-windows\AppClienteInterface1.Form1.resources
+D:\coder nuevo\curso_de_c#\progrmas _curso_c#_coder_house\prueba_c-\clase_13\AppClienteInterface1\obj\Debug\net6.0-windows\AppClienteInterface1.csproj.GenerateResource.cache
+D:\coder nuevo\curso_de_c#\progrmas _curso_c#_coder_house\prueba_c-\clase_13\AppClienteInterface1\obj\Debug\net6.0-windows\AppClienteInterface1.GeneratedMSBuildEditorConfig.editorconfig
+D:\coder nuevo\curso_de_c#\progrmas _curso_c#_coder_house\prueba_c-\clase_13\AppClienteInterface1\obj\Debug\net6.0-windows\AppClienteInterface1.AssemblyInfoInputs.cache
+D:\coder nuevo\curso_de_c#\progrmas _curso_c#_coder_house\prueba_c-\clase_13\AppClienteInterface1\obj\Debug\net6.0-windows\AppClienteInterface1.AssemblyInfo.cs
+D:\coder nuevo\curso_de_c#\progrmas _curso_c#_coder_house\prueba_c-\clase_13\AppClienteInterface1\obj\Debug\net6.0-windows\AppClienteInterface1.csproj.CoreCompileInputs.cache

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EGrIqvy3Tgck67gO+5enZJ68FzeH+jTfqMQVRtsjD2hoWLZ8hv8Ds4qgffg2bBbomKcBiLKYo+Q+R8GEuy0tFQ==",
+  "dgSpecHash": "94hJmX8ddBxWQ5WKAM9Me/NDufSvFcRiqNneqUYbYMRNFCfY9FPLVGdFvCOyJ9I+ECLOw0177vu4+Q7lrLcxBA==",
   "success": true,
-  "projectFilePath": "D:\\coder nuevo\\curso_de_c#\\progrmas _curso_c#_coder_house\\prueba_c-\\clase_13\\Clase12\\AppClientes.csproj",
+  "projectFilePath": "D:\\coder nuevo\\curso_de_c#\\progrmas _curso_c#_coder_house\\prueba_c-\\clase_13\\AppClienteInterface1\\AppClienteInterface1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\migue\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\migue\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

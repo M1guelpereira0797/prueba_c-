@@ -1,0 +1,12 @@
+D:\coder nuevo\curso_de_c#\progrmas _curso_c#_coder_house\prueba_c-\clase_13\AppEntities\bin\Debug\net6.0\AppEntities.deps.json
+D:\coder nuevo\curso_de_c#\progrmas _curso_c#_coder_house\prueba_c-\clase_13\AppEntities\bin\Debug\net6.0\AppEntities.dll
+D:\coder nuevo\curso_de_c#\progrmas _curso_c#_coder_house\prueba_c-\clase_13\AppEntities\bin\Debug\net6.0\AppEntities.pdb
+D:\coder nuevo\curso_de_c#\progrmas _curso_c#_coder_house\prueba_c-\clase_13\AppEntities\obj\Debug\net6.0\AppEntities.csproj.AssemblyReference.cache
+D:\coder nuevo\curso_de_c#\progrmas _curso_c#_coder_house\prueba_c-\clase_13\AppEntities\obj\Debug\net6.0\AppEntities.GeneratedMSBuildEditorConfig.editorconfig
+D:\coder nuevo\curso_de_c#\progrmas _curso_c#_coder_house\prueba_c-\clase_13\AppEntities\obj\Debug\net6.0\AppEntities.AssemblyInfoInputs.cache
+D:\coder nuevo\curso_de_c#\progrmas _curso_c#_coder_house\prueba_c-\clase_13\AppEntities\obj\Debug\net6.0\AppEntities.AssemblyInfo.cs
+D:\coder nuevo\curso_de_c#\progrmas _curso_c#_coder_house\prueba_c-\clase_13\AppEntities\obj\Debug\net6.0\AppEntities.csproj.CoreCompileInputs.cache
+D:\coder nuevo\curso_de_c#\progrmas _curso_c#_coder_house\prueba_c-\clase_13\AppEntities\obj\Debug\net6.0\AppEntities.dll
+D:\coder nuevo\curso_de_c#\progrmas _curso_c#_coder_house\prueba_c-\clase_13\AppEntities\obj\Debug\net6.0\refint\AppEntities.dll
+D:\coder nuevo\curso_de_c#\progrmas _curso_c#_coder_house\prueba_c-\clase_13\AppEntities\obj\Debug\net6.0\AppEntities.pdb
+D:\coder nuevo\curso_de_c#\progrmas _curso_c#_coder_house\prueba_c-\clase_13\AppEntities\obj\Debug\net6.0\ref\AppEntities.dll

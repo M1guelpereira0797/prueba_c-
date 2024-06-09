@@ -1,7 +1,7 @@
 {
   "version": 3,
   "targets": {
-    "net6.0-windows7.0": {
+    "net6.0": {
       "Microsoft.NETCore.Platforms/3.1.0": {
         "type": "package",
         "compile": {
@@ -143,6 +143,20 @@
         },
         "runtime": {
           "bin/placeholder/AppClienteData.dll": {}
+        }
+      },
+      "AppClientesBussiness/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "AppClienteData": "1.0.0",
+          "AppEntities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/AppClientesBussiness.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AppClientesBussiness.dll": {}
         }
       },
       "AppEntities/1.0.0": {
@@ -476,6 +490,11 @@
       "path": "../AppClienteData/AppClienteData.csproj",
       "msbuildProject": "../AppClienteData/AppClienteData.csproj"
     },
+    "AppClientesBussiness/1.0.0": {
+      "type": "project",
+      "path": "../AppClientesBussiness/AppClientesBussiness.csproj",
+      "msbuildProject": "../AppClientesBussiness/AppClientesBussiness.csproj"
+    },
     "AppEntities/1.0.0": {
       "type": "project",
       "path": "../AppEntities/AppEntities.csproj",
@@ -483,8 +502,8 @@
     }
   },
   "projectFileDependencyGroups": {
-    "net6.0-windows7.0": [
-      "AppClienteData >= 1.0.0",
+    "net6.0": [
+      "AppClientesBussiness >= 1.0.0",
       "AppEntities >= 1.0.0",
       "System.Data.SqlClient >= 4.8.6"
     ]
@@ -497,11 +516,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\coder nuevo\\curso_de_c#\\progrmas _curso_c#_coder_house\\prueba_c-\\clase_13\\Clase12\\AppClientes.csproj",
-      "projectName": "AppClientes",
-      "projectPath": "D:\\coder nuevo\\curso_de_c#\\progrmas _curso_c#_coder_house\\prueba_c-\\clase_13\\Clase12\\AppClientes.csproj",
+      "projectUniqueName": "D:\\coder nuevo\\curso_de_c#\\progrmas _curso_c#_coder_house\\prueba_c-\\clase_13\\AppClienteInterface\\AppClienteInterface.csproj",
+      "projectName": "AppClienteInterface",
+      "projectPath": "D:\\coder nuevo\\curso_de_c#\\progrmas _curso_c#_coder_house\\prueba_c-\\clase_13\\AppClienteInterface\\AppClienteInterface.csproj",
       "packagesPath": "C:\\Users\\migue\\.nuget\\packages\\",
-      "outputPath": "D:\\coder nuevo\\curso_de_c#\\progrmas _curso_c#_coder_house\\prueba_c-\\clase_13\\Clase12\\obj\\",
+      "outputPath": "D:\\coder nuevo\\curso_de_c#\\progrmas _curso_c#_coder_house\\prueba_c-\\clase_13\\AppClienteInterface\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -514,18 +533,18 @@
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net6.0-windows7.0"
+        "net6.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net6.0-windows7.0": {
-          "targetAlias": "net6.0-windows",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\coder nuevo\\curso_de_c#\\progrmas _curso_c#_coder_house\\prueba_c-\\clase_13\\AppClienteData\\AppClienteData.csproj": {
-              "projectPath": "D:\\coder nuevo\\curso_de_c#\\progrmas _curso_c#_coder_house\\prueba_c-\\clase_13\\AppClienteData\\AppClienteData.csproj"
+            "D:\\coder nuevo\\curso_de_c#\\progrmas _curso_c#_coder_house\\prueba_c-\\clase_13\\AppClientesBussiness\\AppClientesBussiness.csproj": {
+              "projectPath": "D:\\coder nuevo\\curso_de_c#\\progrmas _curso_c#_coder_house\\prueba_c-\\clase_13\\AppClientesBussiness\\AppClientesBussiness.csproj"
             },
             "D:\\coder nuevo\\curso_de_c#\\progrmas _curso_c#_coder_house\\prueba_c-\\clase_13\\AppEntities\\AppEntities.csproj": {
               "projectPath": "D:\\coder nuevo\\curso_de_c#\\progrmas _curso_c#_coder_house\\prueba_c-\\clase_13\\AppEntities\\AppEntities.csproj"
@@ -540,8 +559,8 @@
       }
     },
     "frameworks": {
-      "net6.0-windows7.0": {
-        "targetAlias": "net6.0-windows",
+      "net6.0": {
+        "targetAlias": "net6.0",
         "dependencies": {
           "System.Data.SqlClient": {
             "target": "Package",
@@ -561,9 +580,6 @@
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
-          },
-          "Microsoft.WindowsDesktop.App.WindowsForms": {
-            "privateAssets": "none"
           }
         },
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"

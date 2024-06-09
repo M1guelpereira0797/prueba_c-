@@ -1,0 +1,5 @@
+D:\coder nuevo\curso_de_c#\progrmas _curso_c#_coder_house\prueba_c-\clase_13\AppClientesBussiness\obj\Debug\net6.0\AppClientesBussiness.csproj.AssemblyReference.cache
+D:\coder nuevo\curso_de_c#\progrmas _curso_c#_coder_house\prueba_c-\clase_13\AppClientesBussiness\obj\Debug\net6.0\AppClientesBussiness.GeneratedMSBuildEditorConfig.editorconfig
+D:\coder nuevo\curso_de_c#\progrmas _curso_c#_coder_house\prueba_c-\clase_13\AppClientesBussiness\obj\Debug\net6.0\AppClientesBussiness.AssemblyInfoInputs.cache
+D:\coder nuevo\curso_de_c#\progrmas _curso_c#_coder_house\prueba_c-\clase_13\AppClientesBussiness\obj\Debug\net6.0\AppClientesBussiness.AssemblyInfo.cs
+D:\coder nuevo\curso_de_c#\progrmas _curso_c#_coder_house\prueba_c-\clase_13\AppClientesBussiness\obj\Debug\net6.0\AppClientesBussiness.csproj.CoreCompileInputs.cache
