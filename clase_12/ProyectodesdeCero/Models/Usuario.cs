@@ -7,6 +7,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.SqlServer;
 using ProyectodesdeCero.Database;
 using ProyectodesdeCero.Models;
+using System.Data.SqlClient;
 
 namespace ProyectodesdeCero.Models
 {

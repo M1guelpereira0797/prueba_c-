@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.SqlServer;
+using System.Data.SqlClient;
 using ProyectodesdeCero.Database;
 using ProyectodesdeCero.Models;
 

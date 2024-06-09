@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using ProyectodesdeCero.Database;
 using ProyectodesdeCero.Models;
+using System.Data.SqlClient;
 
 namespace ProyectodesdeCero
 {
