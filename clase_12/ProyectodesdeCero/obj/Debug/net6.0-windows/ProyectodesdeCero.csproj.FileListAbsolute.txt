@@ -1,0 +1,111 @@
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 11 enity framwork\ProyectodesdeCero\bin\Debug\net6.0-windows\ProyectodesdeCero.exe
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 11 enity framwork\ProyectodesdeCero\bin\Debug\net6.0-windows\ProyectodesdeCero.deps.json
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 11 enity framwork\ProyectodesdeCero\bin\Debug\net6.0-windows\ProyectodesdeCero.runtimeconfig.json
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 11 enity framwork\ProyectodesdeCero\bin\Debug\net6.0-windows\ProyectodesdeCero.dll
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 11 enity framwork\ProyectodesdeCero\bin\Debug\net6.0-windows\ProyectodesdeCero.pdb
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 11 enity framwork\ProyectodesdeCero\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 11 enity framwork\ProyectodesdeCero\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 11 enity framwork\ProyectodesdeCero\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 11 enity framwork\ProyectodesdeCero\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 11 enity framwork\ProyectodesdeCero\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 11 enity framwork\ProyectodesdeCero\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 11 enity framwork\ProyectodesdeCero\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 11 enity framwork\ProyectodesdeCero\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 11 enity framwork\ProyectodesdeCero\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 11 enity framwork\ProyectodesdeCero\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 11 enity framwork\ProyectodesdeCero\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 11 enity framwork\ProyectodesdeCero\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 11 enity framwork\ProyectodesdeCero\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 11 enity framwork\ProyectodesdeCero\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 11 enity framwork\ProyectodesdeCero\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 11 enity framwork\ProyectodesdeCero\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 11 enity framwork\ProyectodesdeCero\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 11 enity framwork\ProyectodesdeCero\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 11 enity framwork\ProyectodesdeCero\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 11 enity framwork\ProyectodesdeCero\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 11 enity framwork\ProyectodesdeCero\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 11 enity framwork\ProyectodesdeCero\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 11 enity framwork\ProyectodesdeCero\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 11 enity framwork\ProyectodesdeCero\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 11 enity framwork\ProyectodesdeCero\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 11 enity framwork\ProyectodesdeCero\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 11 enity framwork\ProyectodesdeCero\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 11 enity framwork\ProyectodesdeCero\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 11 enity framwork\ProyectodesdeCero\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 11 enity framwork\ProyectodesdeCero\obj\Debug\net6.0-windows\ProyectodesdeCero.csproj.AssemblyReference.cache
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 11 enity framwork\ProyectodesdeCero\obj\Debug\net6.0-windows\ProyectodesdeCero.Form1.resources
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 11 enity framwork\ProyectodesdeCero\obj\Debug\net6.0-windows\ProyectodesdeCero.csproj.GenerateResource.cache
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 11 enity framwork\ProyectodesdeCero\obj\Debug\net6.0-windows\ProyectodesdeCero.GeneratedMSBuildEditorConfig.editorconfig
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 11 enity framwork\ProyectodesdeCero\obj\Debug\net6.0-windows\ProyectodesdeCero.AssemblyInfoInputs.cache
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 11 enity framwork\ProyectodesdeCero\obj\Debug\net6.0-windows\ProyectodesdeCero.AssemblyInfo.cs
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 11 enity framwork\ProyectodesdeCero\obj\Debug\net6.0-windows\ProyectodesdeCero.csproj.CoreCompileInputs.cache
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 11 enity framwork\ProyectodesdeCero\obj\Debug\net6.0-windows\ProyectodesdeCero.csproj.CopyComplete
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 11 enity framwork\ProyectodesdeCero\obj\Debug\net6.0-windows\ProyectodesdeCero.dll
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 11 enity framwork\ProyectodesdeCero\obj\Debug\net6.0-windows\refint\ProyectodesdeCero.dll
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 11 enity framwork\ProyectodesdeCero\obj\Debug\net6.0-windows\ProyectodesdeCero.pdb
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 11 enity framwork\ProyectodesdeCero\obj\Debug\net6.0-windows\ProyectodesdeCero.genruntimeconfig.cache
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 11 enity framwork\ProyectodesdeCero\obj\Debug\net6.0-windows\ref\ProyectodesdeCero.dll
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 11 enity framwork\ProyectodesdeCero\bin\Debug\net6.0-windows\Humanizer.dll
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 11 enity framwork\ProyectodesdeCero\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 12\ProyectodesdeCero\bin\Debug\net6.0-windows\ProyectodesdeCero.exe
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 12\ProyectodesdeCero\bin\Debug\net6.0-windows\ProyectodesdeCero.deps.json
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 12\ProyectodesdeCero\bin\Debug\net6.0-windows\ProyectodesdeCero.runtimeconfig.json
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 12\ProyectodesdeCero\bin\Debug\net6.0-windows\ProyectodesdeCero.dll
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 12\ProyectodesdeCero\bin\Debug\net6.0-windows\ProyectodesdeCero.pdb
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 12\ProyectodesdeCero\bin\Debug\net6.0-windows\Humanizer.dll
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 12\ProyectodesdeCero\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 12\ProyectodesdeCero\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 12\ProyectodesdeCero\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 12\ProyectodesdeCero\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 12\ProyectodesdeCero\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 12\ProyectodesdeCero\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 12\ProyectodesdeCero\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 12\ProyectodesdeCero\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 12\ProyectodesdeCero\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 12\ProyectodesdeCero\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 12\ProyectodesdeCero\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 12\ProyectodesdeCero\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 12\ProyectodesdeCero\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 12\ProyectodesdeCero\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 12\ProyectodesdeCero\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 12\ProyectodesdeCero\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 12\ProyectodesdeCero\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 12\ProyectodesdeCero\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 12\ProyectodesdeCero\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 12\ProyectodesdeCero\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 12\ProyectodesdeCero\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 12\ProyectodesdeCero\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 12\ProyectodesdeCero\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 12\ProyectodesdeCero\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 12\ProyectodesdeCero\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 12\ProyectodesdeCero\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 12\ProyectodesdeCero\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 12\ProyectodesdeCero\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 12\ProyectodesdeCero\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 12\ProyectodesdeCero\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 12\ProyectodesdeCero\obj\Debug\net6.0-windows\ProyectodesdeCero.csproj.AssemblyReference.cache
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 12\ProyectodesdeCero\obj\Debug\net6.0-windows\ProyectodesdeCero.Form1.resources
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 12\ProyectodesdeCero\obj\Debug\net6.0-windows\ProyectodesdeCero.csproj.GenerateResource.cache
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 12\ProyectodesdeCero\obj\Debug\net6.0-windows\ProyectodesdeCero.GeneratedMSBuildEditorConfig.editorconfig
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 12\ProyectodesdeCero\obj\Debug\net6.0-windows\ProyectodesdeCero.AssemblyInfoInputs.cache
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 12\ProyectodesdeCero\obj\Debug\net6.0-windows\ProyectodesdeCero.AssemblyInfo.cs
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 12\ProyectodesdeCero\obj\Debug\net6.0-windows\ProyectodesdeCero.csproj.CoreCompileInputs.cache
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 12\ProyectodesdeCero\obj\Debug\net6.0-windows\ProyectodesdeCero.csproj.CopyComplete
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 12\ProyectodesdeCero\obj\Debug\net6.0-windows\ProyectodesdeCero.dll
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 12\ProyectodesdeCero\obj\Debug\net6.0-windows\refint\ProyectodesdeCero.dll
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 12\ProyectodesdeCero\obj\Debug\net6.0-windows\ProyectodesdeCero.pdb
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 12\ProyectodesdeCero\obj\Debug\net6.0-windows\ProyectodesdeCero.genruntimeconfig.cache
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 12\ProyectodesdeCero\obj\Debug\net6.0-windows\ref\ProyectodesdeCero.dll
+D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\clase 12\ProyectodesdeCero\obj\Debug\net6.0-windows\ProyectodesdeCero.Cliente.resources
+D:\coder nuevo\curso_de_c#\progrmas _curso_c#_coder_house\prueba_c-\clase_12\ProyectodesdeCero\obj\Debug\net6.0-windows\ProyectodesdeCero.csproj.AssemblyReference.cache
+D:\coder nuevo\curso_de_c#\progrmas _curso_c#_coder_house\prueba_c-\clase_12\ProyectodesdeCero\obj\Debug\net6.0-windows\ProyectodesdeCero.Cliente.resources
+D:\coder nuevo\curso_de_c#\progrmas _curso_c#_coder_house\prueba_c-\clase_12\ProyectodesdeCero\obj\Debug\net6.0-windows\ProyectodesdeCero.Form1.resources
+D:\coder nuevo\curso_de_c#\progrmas _curso_c#_coder_house\prueba_c-\clase_12\ProyectodesdeCero\obj\Debug\net6.0-windows\ProyectodesdeCero.csproj.GenerateResource.cache
+D:\coder nuevo\curso_de_c#\progrmas _curso_c#_coder_house\prueba_c-\clase_12\ProyectodesdeCero\obj\Debug\net6.0-windows\ProyectodesdeCero.GeneratedMSBuildEditorConfig.editorconfig
+D:\coder nuevo\curso_de_c#\progrmas _curso_c#_coder_house\prueba_c-\clase_12\ProyectodesdeCero\obj\Debug\net6.0-windows\ProyectodesdeCero.AssemblyInfoInputs.cache
+D:\coder nuevo\curso_de_c#\progrmas _curso_c#_coder_house\prueba_c-\clase_12\ProyectodesdeCero\obj\Debug\net6.0-windows\ProyectodesdeCero.AssemblyInfo.cs
+D:\coder nuevo\curso_de_c#\progrmas _curso_c#_coder_house\prueba_c-\clase_12\ProyectodesdeCero\obj\Debug\net6.0-windows\ProyectodesdeCero.csproj.CoreCompileInputs.cache
+D:\coder nuevo\curso_de_c#\progrmas _curso_c#_coder_house\prueba_c-\clase_12\ProyectodesdeCero\obj\Debug\net6.0-windows\ProyectodesdeCero.dll
+D:\coder nuevo\curso_de_c#\progrmas _curso_c#_coder_house\prueba_c-\clase_12\ProyectodesdeCero\obj\Debug\net6.0-windows\refint\ProyectodesdeCero.dll
+D:\coder nuevo\curso_de_c#\progrmas _curso_c#_coder_house\prueba_c-\clase_12\ProyectodesdeCero\obj\Debug\net6.0-windows\ProyectodesdeCero.pdb
+D:\coder nuevo\curso_de_c#\progrmas _curso_c#_coder_house\prueba_c-\clase_12\ProyectodesdeCero\obj\Debug\net6.0-windows\ProyectodesdeCero.Producto.resources

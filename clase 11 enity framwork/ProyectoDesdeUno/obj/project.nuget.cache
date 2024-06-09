@@ -1,23 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uVVIGHnMpIUyTK/cSPkATbiCECAybVOOkcyYY8tyQPnEi1HCaPJYq6TSG4vAt5938m38Uj0e9jhG9U5QuIMDFQ==",
+  "dgSpecHash": "oAWCuPSV/IWtbo6uV43I0x9tO+0pgHq666Sj2A2YtQI/SxgjRThLiMTLL8bIZ7KXk3LnyXPAhaRykGpJ5/XKrg==",
   "success": true,
   "projectFilePath": "D:\\coder nuevo\\curso de c#\\progrmas curso c# coder house\\prueba_c-\\clase 11 enity framwork\\ProyectoDesdeUno\\ProyectoDesdeUno.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\migue\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.0\\microsoft.entityframeworkcore.6.0.0.nupkg.sha512",
-    "C:\\Users\\migue\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.0\\microsoft.entityframeworkcore.abstractions.6.0.0.nupkg.sha512",
-    "C:\\Users\\migue\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.0\\microsoft.entityframeworkcore.analyzers.6.0.0.nupkg.sha512",
-    "C:\\Users\\migue\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\6.0.0\\microsoft.extensions.caching.abstractions.6.0.0.nupkg.sha512",
-    "C:\\Users\\migue\\.nuget\\packages\\microsoft.extensions.caching.memory\\6.0.0\\microsoft.extensions.caching.memory.6.0.0.nupkg.sha512",
-    "C:\\Users\\migue\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
-    "C:\\Users\\migue\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
-    "C:\\Users\\migue\\.nuget\\packages\\microsoft.extensions.logging\\6.0.0\\microsoft.extensions.logging.6.0.0.nupkg.sha512",
-    "C:\\Users\\migue\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
-    "C:\\Users\\migue\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
-    "C:\\Users\\migue\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
-    "C:\\Users\\migue\\.nuget\\packages\\system.collections.immutable\\6.0.0\\system.collections.immutable.6.0.0.nupkg.sha512",
-    "C:\\Users\\migue\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
-    "C:\\Users\\migue\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
