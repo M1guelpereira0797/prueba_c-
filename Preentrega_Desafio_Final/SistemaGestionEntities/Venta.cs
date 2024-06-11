@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace SistemaGestionEntities
 {
-    internal class Venta
+    public class Venta
     {
+        public int Id { get; set; }
+        public string Comentarios { get; set; }
+
+        public string idUsuario { get; set; }
     }
 }

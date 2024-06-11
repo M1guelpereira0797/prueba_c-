@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace SistemaGestionEntities
 {
-    internal class ProductoVendido
+    public class ProductoVendido
     {
+        public int Id { get; set; }
+        public int idProducto { get; set; }
+        public int Stock { get; set; }
+        public int idVenta { get; set; }
+
     }
 }
