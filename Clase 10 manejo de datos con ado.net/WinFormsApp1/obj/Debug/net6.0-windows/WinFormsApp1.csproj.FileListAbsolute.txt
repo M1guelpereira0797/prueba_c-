@@ -48,3 +48,28 @@ D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\Clase 10 mane
 D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\Clase 10 manejo de datos con ado.net\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
 D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\Clase 10 manejo de datos con ado.net\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
 D:\coder nuevo\curso de c#\progrmas curso c# coder house\prueba_c-\Clase 10 manejo de datos con ado.net\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+D:\coder nuevo\curso_de_c#\progrmas _curso_c#_coder_house\prueba_c-\Clase 10 manejo de datos con ado.net\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+D:\coder nuevo\curso_de_c#\progrmas _curso_c#_coder_house\prueba_c-\Clase 10 manejo de datos con ado.net\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+D:\coder nuevo\curso_de_c#\progrmas _curso_c#_coder_house\prueba_c-\Clase 10 manejo de datos con ado.net\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+D:\coder nuevo\curso_de_c#\progrmas _curso_c#_coder_house\prueba_c-\Clase 10 manejo de datos con ado.net\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+D:\coder nuevo\curso_de_c#\progrmas _curso_c#_coder_house\prueba_c-\Clase 10 manejo de datos con ado.net\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+D:\coder nuevo\curso_de_c#\progrmas _curso_c#_coder_house\prueba_c-\Clase 10 manejo de datos con ado.net\WinFormsApp1\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\coder nuevo\curso_de_c#\progrmas _curso_c#_coder_house\prueba_c-\Clase 10 manejo de datos con ado.net\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\coder nuevo\curso_de_c#\progrmas _curso_c#_coder_house\prueba_c-\Clase 10 manejo de datos con ado.net\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\coder nuevo\curso_de_c#\progrmas _curso_c#_coder_house\prueba_c-\Clase 10 manejo de datos con ado.net\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\coder nuevo\curso_de_c#\progrmas _curso_c#_coder_house\prueba_c-\Clase 10 manejo de datos con ado.net\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\coder nuevo\curso_de_c#\progrmas _curso_c#_coder_house\prueba_c-\Clase 10 manejo de datos con ado.net\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\coder nuevo\curso_de_c#\progrmas _curso_c#_coder_house\prueba_c-\Clase 10 manejo de datos con ado.net\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+D:\coder nuevo\curso_de_c#\progrmas _curso_c#_coder_house\prueba_c-\Clase 10 manejo de datos con ado.net\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Registro.resources
+D:\coder nuevo\curso_de_c#\progrmas _curso_c#_coder_house\prueba_c-\Clase 10 manejo de datos con ado.net\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form2.resources
+D:\coder nuevo\curso_de_c#\progrmas _curso_c#_coder_house\prueba_c-\Clase 10 manejo de datos con ado.net\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+D:\coder nuevo\curso_de_c#\progrmas _curso_c#_coder_house\prueba_c-\Clase 10 manejo de datos con ado.net\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\coder nuevo\curso_de_c#\progrmas _curso_c#_coder_house\prueba_c-\Clase 10 manejo de datos con ado.net\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\coder nuevo\curso_de_c#\progrmas _curso_c#_coder_house\prueba_c-\Clase 10 manejo de datos con ado.net\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+D:\coder nuevo\curso_de_c#\progrmas _curso_c#_coder_house\prueba_c-\Clase 10 manejo de datos con ado.net\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\coder nuevo\curso_de_c#\progrmas _curso_c#_coder_house\prueba_c-\Clase 10 manejo de datos con ado.net\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+D:\coder nuevo\curso_de_c#\progrmas _curso_c#_coder_house\prueba_c-\Clase 10 manejo de datos con ado.net\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+D:\coder nuevo\curso_de_c#\progrmas _curso_c#_coder_house\prueba_c-\Clase 10 manejo de datos con ado.net\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+D:\coder nuevo\curso_de_c#\progrmas _curso_c#_coder_house\prueba_c-\Clase 10 manejo de datos con ado.net\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+D:\coder nuevo\curso_de_c#\progrmas _curso_c#_coder_house\prueba_c-\Clase 10 manejo de datos con ado.net\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+D:\coder nuevo\curso_de_c#\progrmas _curso_c#_coder_house\prueba_c-\Clase 10 manejo de datos con ado.net\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
