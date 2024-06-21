@@ -1,0 +1,15 @@
+D:\coder nuevo\curso_de_c#\progrmas _curso_c#_coder_house\prueba_c-\Clase_16\HttpCliente\bin\Debug\net6.0\HttpCliente.exe
+D:\coder nuevo\curso_de_c#\progrmas _curso_c#_coder_house\prueba_c-\Clase_16\HttpCliente\bin\Debug\net6.0\HttpCliente.deps.json
+D:\coder nuevo\curso_de_c#\progrmas _curso_c#_coder_house\prueba_c-\Clase_16\HttpCliente\bin\Debug\net6.0\HttpCliente.runtimeconfig.json
+D:\coder nuevo\curso_de_c#\progrmas _curso_c#_coder_house\prueba_c-\Clase_16\HttpCliente\bin\Debug\net6.0\HttpCliente.dll
+D:\coder nuevo\curso_de_c#\progrmas _curso_c#_coder_house\prueba_c-\Clase_16\HttpCliente\bin\Debug\net6.0\HttpCliente.pdb
+D:\coder nuevo\curso_de_c#\progrmas _curso_c#_coder_house\prueba_c-\Clase_16\HttpCliente\obj\Debug\net6.0\HttpCliente.csproj.AssemblyReference.cache
+D:\coder nuevo\curso_de_c#\progrmas _curso_c#_coder_house\prueba_c-\Clase_16\HttpCliente\obj\Debug\net6.0\HttpCliente.GeneratedMSBuildEditorConfig.editorconfig
+D:\coder nuevo\curso_de_c#\progrmas _curso_c#_coder_house\prueba_c-\Clase_16\HttpCliente\obj\Debug\net6.0\HttpCliente.AssemblyInfoInputs.cache
+D:\coder nuevo\curso_de_c#\progrmas _curso_c#_coder_house\prueba_c-\Clase_16\HttpCliente\obj\Debug\net6.0\HttpCliente.AssemblyInfo.cs
+D:\coder nuevo\curso_de_c#\progrmas _curso_c#_coder_house\prueba_c-\Clase_16\HttpCliente\obj\Debug\net6.0\HttpCliente.csproj.CoreCompileInputs.cache
+D:\coder nuevo\curso_de_c#\progrmas _curso_c#_coder_house\prueba_c-\Clase_16\HttpCliente\obj\Debug\net6.0\HttpCliente.dll
+D:\coder nuevo\curso_de_c#\progrmas _curso_c#_coder_house\prueba_c-\Clase_16\HttpCliente\obj\Debug\net6.0\refint\HttpCliente.dll
+D:\coder nuevo\curso_de_c#\progrmas _curso_c#_coder_house\prueba_c-\Clase_16\HttpCliente\obj\Debug\net6.0\HttpCliente.pdb
+D:\coder nuevo\curso_de_c#\progrmas _curso_c#_coder_house\prueba_c-\Clase_16\HttpCliente\obj\Debug\net6.0\HttpCliente.genruntimeconfig.cache
+D:\coder nuevo\curso_de_c#\progrmas _curso_c#_coder_house\prueba_c-\Clase_16\HttpCliente\obj\Debug\net6.0\ref\HttpCliente.dll
